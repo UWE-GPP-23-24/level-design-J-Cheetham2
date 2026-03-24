@@ -1491,3 +1491,9 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2026.03.24-02.26.13:901][471]LogSlate: Window 'Save Level As' being destroyed
 [2026.03.24-02.26.13:920][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.40 sec
 [2026.03.24-02.26.13:950][471]LogAutomationController: Ignoring very large delta of 2.46 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.03.24-02.26.58:224][647]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4951.653809
+[2026.03.24-02.26.59:224][650]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-02.26.59:224][650]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4952.320801, Update Interval: 335.067596
+[2026.03.24-02.33.13:300][772]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5326.684082
+[2026.03.24-02.33.14:300][775]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.24-02.33.14:300][775]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5327.352051, Update Interval: 325.197906
